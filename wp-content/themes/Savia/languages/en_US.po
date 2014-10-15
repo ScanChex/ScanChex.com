@@ -1,0 +1,428 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Savia\n"
+"POT-Creation-Date: 2014-03-18 15:11+0200\n"
+"PO-Revision-Date: 2014-03-18 15:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: BlueOwlCreative <contact@blueowlcreative.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: ../404.php:22
+msgid "The page you are trying to access does not exist!"
+msgstr ""
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:16
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:16
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:16
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:49
+msgid "Leave A Comment"
+msgstr ""
+
+#: ../comments.php:62
+msgid "Logged in as"
+msgstr ""
+
+#: ../comments.php:62
+msgid "Log out &raquo;"
+msgstr ""
+
+#: ../comments.php:69 ../comments.php:92 ../comments.php:98
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:78
+msgid "Name (required)"
+msgstr ""
+
+#: ../comments.php:82
+msgid "Email (required)"
+msgstr ""
+
+#: ../comments.php:86
+msgid "Website"
+msgstr ""
+
+#: ../contact.php:172
+msgid "Contact Form"
+msgstr ""
+
+#: ../contact.php:177
+msgid "Please make sure all fields are correctly filled in!"
+msgstr ""
+
+#: ../contact.php:181
+msgid "Your email was successfully sent! Thank you for contacting us!"
+msgstr ""
+
+#: ../contact.php:189
+msgid "Name"
+msgstr ""
+
+#: ../contact.php:193
+msgid "Email"
+msgstr ""
+
+#: ../contact.php:197
+msgid "Subject"
+msgstr ""
+
+#: ../contact.php:201
+msgid "Message"
+msgstr ""
+
+#: ../contact.php:204
+msgid "Send"
+msgstr ""
+
+#: ../header.php:27
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../header.php:32 ../includes/boc_custom.php:33
+#: ../includes/boc_custom.php:35 ../woocommerce.php:22
+msgid "Shop"
+msgstr ""
+
+#: ../header.php:34
+#, php-format
+msgid "Archive: %s"
+msgstr ""
+
+#: ../header.php:38
+#, php-format
+msgid "Search: %s"
+msgstr ""
+
+#: ../header.php:114 ../includes/boc_custom.php:90
+msgid "Search"
+msgstr ""
+
+#: ../includes/boc_custom.php:14
+msgid "Home"
+msgstr ""
+
+#: ../includes/boc_custom.php:89
+msgid "404 - Page not Found"
+msgstr ""
+
+#: ../includes/boc_custom.php:224
+msgid "Edit"
+msgstr ""
+
+#: ../includes/boc_custom.php:230
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../includes/boc_custom.php:236
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/boc_custom.php:305
+msgid "Previous"
+msgstr ""
+
+#: ../includes/boc_custom.php:315
+msgid "Next"
+msgstr ""
+
+#: ../includes/boc_custom.php:478
+msgid "was successfully added to your cart."
+msgstr ""
+
+#: ../includes/boc_custom.php:538
+#: ../includes/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/boc_custom.php:539
+#: ../includes/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/boc_custom.php:540
+#: ../includes/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/boc_custom.php:541
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/boc_custom.php:552
+#: ../includes/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/boc_custom.php:553
+#: ../includes/class-tgm-plugin-activation.php:171
+#: ../includes/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/boc_custom.php:554
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1950
+#: ../includes/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1950
+#: ../includes/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/customizer_theme-options.php:6
+msgid "Main Menu Styles"
+msgstr ""
+
+#: ../includes/shortcodes.php:987
+msgid "Read more"
+msgstr ""
+
+#: ../includes/shortcodes.php:1029
+msgid "Portfolio Items"
+msgstr ""
+
+#: ../index.php:19 ../search.php:14 ../woocommerce.php:22
+msgid "Search results for:"
+msgstr ""
+
+#: ../index.php:119 ../single.php:107
+msgid "By "
+msgstr ""
+
+#: ../index.php:120 ../single.php:108
+msgid "No comments yet"
+msgstr ""
+
+#: ../index.php:120 ../single.php:108
+msgid "1 comment"
+msgstr ""
+
+#: ../index.php:120 ../single.php:108
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../index.php:120 ../single.php:108
+msgid "Comments are Off"
+msgstr ""
+
+#: ../index.php:139 ../search.php:74
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../portfolio-three-column.php:96 ../portfolio-three-column.php:101
+msgid "All"
+msgstr ""
+
+#: ../portfolio-three-column.php:104
+msgid "Filter:"
+msgstr ""
+
+#: ../single-portfolio.php:197 ../single-portfolio_full.php:137
+#: ../single-portfolio_slider.php:142
+msgid "Related Portfolio Items"
+msgstr ""
